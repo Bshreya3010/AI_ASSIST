@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Refactoring Code
 
 Refactoring means improving the structure and readability of code without changing what the program does.
@@ -31,3 +32,6 @@ else:
 - Write code in a way that is easy to follow
 
 Refactoring is not about changing the logic of the program; it is about making the code cleaner, easier to read, and easier to maintain.
+=======
+# AI_ASSIST
+>>>>>>> a7e607d6332b9e6fdf1e905784cd0c9ac8871cda
